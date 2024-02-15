@@ -1,0 +1,56 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "zapatos",
+    "inventarioProducto": 45,
+    "precioProducto": "30000"
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "pantalones",
+    "inventarioProducto": 15,
+    "precioProducto": "50000"
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto": "correa",
+    "inventarioProducto": "9",
+    "precioProducto": "15000"
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "camisa",
+    "inventarioProducto": "7",
+    "precioProducto": "10000"
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto": "gorra",
+    "inventarioProducto": "12",
+    "precioProducto": "60000"
+  },
+  {
+    "codigoProducto": "07",
+    "nombreProducto": "reloj",
+    "inventarioProducto": "5",
+    "precioProducto": "100000"
+  },
+  {
+    "codigoProducto": "08",
+    "nombreProducto": "medias",
+    "inventarioProducto": "8",
+    "precioProducto": "5000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "manilla",
+    "inventarioProducto": "5",
+    "precioProducto": "2000"
+  },
+  {
+    "codigoProducto": "10",
+    "nombreProducto": "anillo",
+    "inventarioProducto": "9",
+    "precioProducto": "7000"
+  }
+]
